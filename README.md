@@ -20,3 +20,4 @@
 16. git branch -M main
 17. git push -u origin main
 18. dvc repro
+19. dvc metrics diff
