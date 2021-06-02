@@ -21,3 +21,4 @@
 17. git push -u origin main
 18. dvc repro
 19. dvc metrics diff
+20. dvc metrics show
