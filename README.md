@@ -5,6 +5,7 @@
 3. install requirements
    pip install -r requirements.txt
 4. template creation
+   python3 template.py 
 5. git init
 6. dvc init
 7. git init
