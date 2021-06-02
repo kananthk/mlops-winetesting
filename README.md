@@ -19,4 +19,4 @@
 15. git remote add origin https://github.com/kananthk/mlops-winetesting.git
 16. git branch -M main
 17. git push -u origin main
-
+18. dvc repro

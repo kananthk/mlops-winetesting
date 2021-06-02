@@ -1,5 +1,9 @@
 {
     "python.pythonPath": "/Users/B026289/anaconda3/bin/python",
     "window.zoomLevel": 1,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "python.linting.enabled": false,
 }
+
+
+

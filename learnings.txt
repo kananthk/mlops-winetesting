@@ -1,0 +1,35 @@
+basic difference between devops and mlops?
+topics covered :
+1. project structure 
+2. what is dvc : components, 
+3. git commands
+4. basic python : 
+
+consolidating the params in a single file.
+git version control for versioning
+
+
+in ml systems: a part from code (we use git), we need to manage the data and model
+dvs - helps data version control and model
+dvs built on git..
+
+DVC tracks ML models and data sets.
+DVC built to make mL modles shareable and repetable.
+
+
+in git : we cannot store large files, we just push code here.
+
+in DVC : 
+- .dvc is pushed to git repo not data.
+- local
+- remote storage 
+
+components available in DVC and importent parts
+
+-  params.yml : centralized file contains paramters and config details
+
+- dvc.yml : stores all the stages we implement like 
+             :- data gatering;datap reprocessing;training;evaluation
+
+
+
